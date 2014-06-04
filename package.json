@@ -1,0 +1,22 @@
+{
+  "name": "bh-bundle",
+  "version": "0.0.1",
+  "description": "Render bh bundle",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fi11/bh-bundle.git"
+  },
+  "keywords": [
+    "bh",
+    "template",
+    "bem"
+  ],
+  "bugs": {
+    "url": "https://github.com/fi11/bh-bundle/issues"
+  },
+  "homepage": "https://github.com/fi11/bh-bundle",
+  "author": "Pavel Silin",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
